@@ -14,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rautnitesh&show_icons=true" alt="rautnitesh" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/rautnitesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rautnitesh" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/rautnitesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rautesh" height="30" width="30" /></a>
 <a href="https://fb.com/metheraut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="metheraut" height="30" width="30" /></a>
 <a href="https://instagram.com/metheraut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="metheraut" height="30" width="30" /></a>
 </p>
