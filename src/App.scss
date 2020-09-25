@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.hero {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background-color: rgba(181, 255, 251, 0.247);
+  color: rebeccapurple;
+  display: flex;
+  justify-content: space-between;
+  .left-half {
+    padding: 1rem;
+    .logo {
+      border-radius: 50%;
+      margin: 2rem;
+    }
+
+    .circle {
+      height: 200px;
+      width: 200px;
+      position: absolute;
+      left: 22%;
+      top: 58%;
+      background-color: #fda212;
+      border-radius: 50%;
+      transition: all 0.4s ease-in-out;
+
+      cursor: pointer;
+      &:hover {
+        background-color: rebeccapurple;
+      }
+    }
+  }
+  .right-half {
+    align-items: center;
+    flex-direction: column;
+    padding: 5rem;
+    text-align: center;
+  }
+}
