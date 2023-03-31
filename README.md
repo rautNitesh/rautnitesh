@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Raut</h1>
-<h3 align="center">A CS student.</h3>
+<h3 align="center">A Frontend Developer & evergreen CS student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rautnitesh" alt="rautnitesh" /> </p>
 
